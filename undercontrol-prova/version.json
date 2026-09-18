@@ -1,0 +1,14 @@
+{
+  "versione": "1.0.3",
+  "note": null,
+  "nuovoIndirizzo": null,
+  "pacchetti": [
+    {
+      "revit": "2024",
+      "url": "https://undercontrol-canale.studioliquid.workers.dev/download/2024/1.0.3/UnderControl-2024-1.0.3.zip",
+      "sha256": "7f22db010f39ef1f57f5489c8aecc0d518d9fb9e7c17ed8d717e8145c0aa7d03",
+      "dimensione": 25881015
+    }
+  ],
+  "installer": "https://undercontrol-canale.studioliquid.workers.dev/setup/1.0.3"
+}
