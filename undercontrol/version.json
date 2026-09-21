@@ -11,5 +11,12 @@
       "dimensione": 25896709
     }
   ],
+  "claude": {
+    "versione": "1.1.0",
+    "richiedePlugin": "1.0.3",
+    "url": "https://undercontrol-canale.studioliquid.workers.dev/download/claude/1.1.0/claude-1.1.0.zip",
+    "sha256": "528bf61ed820423e9403eb4848f659a532f0cff191fe8737de7cd17f40110a39",
+    "dimensione": 250075
+  },
   "installer": "https://undercontrol-canale.studioliquid.workers.dev/setup/1.1.0"
 }
