@@ -1,7 +1,15 @@
 {
-  "versione": "0.0.0",
-  "note": null,
+  "versione": "1.1.0",
+  "note": "Under Control 1.1.0 porta la nuova Gestione Lavorazioni, gli aggiornamenti automatici, la licenza che arriva da sola e gli strumenti per Claude direttamente nell\u0027installazione.",
+  "novita": "https://github.com/studioliquid-lab/undercontrol-releases/releases/tag/v1.1.0",
   "nuovoIndirizzo": null,
-  "pacchetti": [],
-  "installer": null
+  "pacchetti": [
+    {
+      "revit": "2024",
+      "url": "https://undercontrol-canale.studioliquid.workers.dev/download/2024/1.1.0/UnderControl-2024-1.1.0.zip",
+      "sha256": "a25900de658e0346164049a6e4618b51dde1fb29ba986787153a128e65ca162f",
+      "dimensione": 25896709
+    }
+  ],
+  "installer": "https://undercontrol-canale.studioliquid.workers.dev/setup/1.1.0"
 }
