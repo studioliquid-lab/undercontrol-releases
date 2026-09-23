@@ -1,14 +1,14 @@
 {
-  "versione": "1.1.0",
-  "note": "Under Control 1.1.0 porta la nuova Gestione Lavorazioni, gli aggiornamenti automatici, la licenza che arriva da sola e gli strumenti per Claude direttamente nell\u0027installazione.",
-  "novita": "https://github.com/studioliquid-lab/undercontrol-releases/releases/tag/v1.1.0",
+  "versione": "1.2.0",
+  "note": "Under Control 1.2.0 ti permette di mandare a Studioliquid idee e segnalazioni scritte con Claude, anche con Revit chiuso, e rende più semplice usare gli strumenti per Claude nella chat: l\u0027installazione li offre sempre e le skill da caricare restano aggiornate.",
+  "novita": "https://github.com/studioliquid-lab/undercontrol-releases/releases/tag/v1.2.0",
   "nuovoIndirizzo": null,
   "pacchetti": [
     {
       "revit": "2024",
-      "url": "https://undercontrol-canale.studioliquid.workers.dev/download/2024/1.1.0/UnderControl-2024-1.1.0.zip",
-      "sha256": "a25900de658e0346164049a6e4618b51dde1fb29ba986787153a128e65ca162f",
-      "dimensione": 25896709
+      "url": "https://undercontrol-canale.studioliquid.workers.dev/download/2024/1.2.0/UnderControl-2024-1.2.0.zip",
+      "sha256": "c1c02fcbbd697ce05e14e9bd0ddc761f9a9265696e8412b2a29c913a572ba0b4",
+      "dimensione": 25898534
     }
   ],
   "claude": {
@@ -18,5 +18,5 @@
     "sha256": "528bf61ed820423e9403eb4848f659a532f0cff191fe8737de7cd17f40110a39",
     "dimensione": 250075
   },
-  "installer": "https://undercontrol-canale.studioliquid.workers.dev/setup/1.1.0"
+  "installer": "https://undercontrol-canale.studioliquid.workers.dev/setup/1.2.0"
 }
