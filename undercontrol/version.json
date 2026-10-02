@@ -12,11 +12,11 @@
     }
   ],
   "claude": {
-    "versione": "1.4.1",
+    "versione": "1.5.0",
     "richiedePlugin": "1.2.0",
-    "url": "https://undercontrol-canale.studioliquid.workers.dev/download/claude/1.4.1/claude-1.4.1.zip",
-    "sha256": "44f28691e3faf4cda9b781be9a031045cf92a6bb95086bf0225897d2e38bd901",
-    "dimensione": 485166
+    "url": "https://undercontrol-canale.studioliquid.workers.dev/download/claude/1.5.0/claude-1.5.0.zip",
+    "sha256": "500e571bfe96f302addd9a07af469eb96ff7e87d6873390cfbde8682a914847e",
+    "dimensione": 487378
   },
   "installer": "https://undercontrol-canale.studioliquid.workers.dev/setup/1.3.0"
 }
