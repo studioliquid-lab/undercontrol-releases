@@ -1,14 +1,14 @@
 {
-  "versione": "1.3.0",
-  "note": "Under Control 1.3.0 ti permette, se vuoi, di mandare a Studioliquid i dati d\u0027uso delle skill per Claude: solo numeri, senza contenuti e senza sapere da quale computer arrivano. È spento finché non lo accendi tu, in Impostazioni di Questo Computer.",
-  "novita": "https://github.com/studioliquid-lab/undercontrol-releases/releases/tag/v1.3.0",
+  "versione": "1.4.0",
+  "note": "Under Control 1.4.0 corregge lo sblocco dei SAL contabilizzati in Gestione Opere Provvisionali, che si fermava con un errore. Se uno sblocco si era fermato a metà, basta riaprire la finestra e togliere di nuovo la spunta.",
+  "novita": "https://github.com/studioliquid-lab/undercontrol-releases/releases/tag/v1.4.0",
   "nuovoIndirizzo": null,
   "pacchetti": [
     {
       "revit": "2024",
-      "url": "https://undercontrol-canale.studioliquid.workers.dev/download/2024/1.3.0/UnderControl-2024-1.3.0.zip",
-      "sha256": "a3b65673badaed301bb9175a48f4f88e4a9d555accb3684a7001d19fa0ef9921",
-      "dimensione": 25901081
+      "url": "https://undercontrol-canale.studioliquid.workers.dev/download/2024/1.4.0/UnderControl-2024-1.4.0.zip",
+      "sha256": "c63abfb17e8ce740b3bba191faed914e6c46730523c309cb5b172d3ec1d50604",
+      "dimensione": 25906923
     }
   ],
   "claude": {
@@ -18,5 +18,5 @@
     "sha256": "500e571bfe96f302addd9a07af469eb96ff7e87d6873390cfbde8682a914847e",
     "dimensione": 487378
   },
-  "installer": "https://undercontrol-canale.studioliquid.workers.dev/setup/1.3.0"
+  "installer": "https://undercontrol-canale.studioliquid.workers.dev/setup/1.4.0"
 }
