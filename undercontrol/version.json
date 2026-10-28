@@ -1,14 +1,14 @@
 {
-  "versione": "1.4.0",
-  "note": "Under Control 1.4.0 corregge lo sblocco dei SAL contabilizzati in Gestione Opere Provvisionali, che si fermava con un errore. Se uno sblocco si era fermato a metà, basta riaprire la finestra e togliere di nuovo la spunta.",
-  "novita": "https://github.com/studioliquid-lab/undercontrol-releases/releases/tag/v1.4.0",
+  "versione": "1.5.0",
+  "note": "Under Control 1.5.0 rende più sicuri i salvataggi di Gestione Lavorazioni e non perde più i Tipi SAL nuovi scritti con la matita. Il pannello della contabilità c\u0027è anche aprendo Revit da un file, le finestre restano della misura giusta sui monitor grandi, e arriva l\u0027icona nuova.",
+  "novita": "https://github.com/studioliquid-lab/undercontrol-releases/releases/tag/v1.5.0",
   "nuovoIndirizzo": null,
   "pacchetti": [
     {
       "revit": "2024",
-      "url": "https://undercontrol-canale.studioliquid.workers.dev/download/2024/1.4.0/UnderControl-2024-1.4.0.zip",
-      "sha256": "c63abfb17e8ce740b3bba191faed914e6c46730523c309cb5b172d3ec1d50604",
-      "dimensione": 25906923
+      "url": "https://undercontrol-canale.studioliquid.workers.dev/download/2024/1.5.0/UnderControl-2024-1.5.0.zip",
+      "sha256": "70f79f65d573be92e9d950cca4f2e9c26f1510ca5a080a3ddc836f10465462b7",
+      "dimensione": 25906025
     }
   ],
   "claude": {
@@ -18,5 +18,5 @@
     "sha256": "69a583889e0bd4464c600a799a8c23761696a68afc5b56b1a4adeb4fe6336849",
     "dimensione": 493844
   },
-  "installer": "https://undercontrol-canale.studioliquid.workers.dev/setup/1.4.0"
+  "installer": "https://undercontrol-canale.studioliquid.workers.dev/setup/1.5.0"
 }
