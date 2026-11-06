@@ -1,14 +1,14 @@
 {
-  "versione": "1.5.0",
-  "note": "Under Control 1.5.0 rende più sicuri i salvataggi di Gestione Lavorazioni e non perde più i Tipi SAL nuovi scritti con la matita. Il pannello della contabilità c\u0027è anche aprendo Revit da un file, le finestre restano della misura giusta sui monitor grandi, e arriva l\u0027icona nuova.",
-  "novita": "https://github.com/studioliquid-lab/undercontrol-releases/releases/tag/v1.5.0",
+  "versione": "1.5.1",
+  "note": "Under Control 1.5.1 corregge i Costi Sicurezza: il totale delle opere provvisionali salvato si aggiorna da solo, e le quote piccole o senza la categoria giusta non si perdono e non sono contate due volte. Con Claude, il codice eseguito in Revit può usare la libreria Utility.",
+  "novita": "https://github.com/studioliquid-lab/undercontrol-releases/releases/tag/v1.5.1",
   "nuovoIndirizzo": null,
   "pacchetti": [
     {
       "revit": "2024",
-      "url": "https://undercontrol-canale.studioliquid.workers.dev/download/2024/1.5.0/UnderControl-2024-1.5.0.zip",
-      "sha256": "70f79f65d573be92e9d950cca4f2e9c26f1510ca5a080a3ddc836f10465462b7",
-      "dimensione": 25906025
+      "url": "https://undercontrol-canale.studioliquid.workers.dev/download/2024/1.5.1/UnderControl-2024-1.5.1.zip",
+      "sha256": "cf68d1bb1b5f5dfeb07ce749c3beb46306ee1e7c6d2d255c90c87c225ea04201",
+      "dimensione": 25907282
     }
   ],
   "claude": {
@@ -18,5 +18,5 @@
     "sha256": "f9a2ce00e8600b8132ded66f742c345c7fb9a66515c300388ab42f48b7792f55",
     "dimensione": 494065
   },
-  "installer": "https://undercontrol-canale.studioliquid.workers.dev/setup/1.5.0"
+  "installer": "https://undercontrol-canale.studioliquid.workers.dev/setup/1.5.1"
 }
